@@ -10,6 +10,8 @@ public class SpringbootMybatisplusApplication {
         SpringApplication.run(SpringbootMybatisplusApplication.class, args);
     }
 
-    public void test123(){}
+    public void test123(){
+        System.out.println("中国我最大");
+    }
 
 }
