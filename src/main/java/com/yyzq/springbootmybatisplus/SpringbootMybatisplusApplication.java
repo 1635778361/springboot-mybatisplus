@@ -13,6 +13,8 @@ public class SpringbootMybatisplusApplication {
     public void test123(){
         System.out.println("中国我最大啊");
         System.out.println("宇宙我最大");
+        System.out.println("中国我最大");
+        System.out.println("世界我最大");
     }
 
 
