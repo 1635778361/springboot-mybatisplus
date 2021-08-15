@@ -9,5 +9,7 @@ public class SpringbootMybatisplusApplication {
     public static void main(String[] args) {
         SpringApplication.run(SpringbootMybatisplusApplication.class, args);
     }
-
+    public void say(){
+        System.out.println("新分支是什么东西");
+    }
 }
