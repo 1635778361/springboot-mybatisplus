@@ -9,6 +9,7 @@ public class SpringbootMybatisplusApplication {
     public static void main(String[] args) {
         SpringApplication.run(SpringbootMybatisplusApplication.class, args);
     }
-    public void test2(){}
+
+    public void test123(){}
 
 }
